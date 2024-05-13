@@ -2,7 +2,10 @@
     margin: 0;
     padding: 0;
 }
-img {
+img{
+    width:100%;
+}
+.tom-and-jerry {
     background-color: white;
     width: 250px;
     animation-name: test;
